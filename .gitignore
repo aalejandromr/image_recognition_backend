@@ -1,0 +1,6 @@
+app/lib
+app/lib/*
+images_to_predict/*
+.quickdrawcache
+training_photos/
+*.h5
